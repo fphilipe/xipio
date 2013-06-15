@@ -1,5 +1,7 @@
 # xipio
 
+[![Gem Version](https://badge.fury.io/rb/xipio.png)](http://badge.fury.io/rb/xipio)
+
 Add xip.io support to your rails app in development mode.
 
 ## Description
