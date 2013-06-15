@@ -1,5 +1,3 @@
-require "xipio/version"
-
-module Xipio
-  # Your code goes here...
-end
+require 'xipio/version'
+require 'xipio/middleware'
+require 'xipio/railtie'
