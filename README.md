@@ -29,3 +29,7 @@ That's it! There's nothing to configure. It just works out of the box.
 ### License
 
 MIT License. Copyright 2013 Philipe Fatio
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fphilipe/xipio/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
